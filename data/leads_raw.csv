@@ -1,0 +1,31 @@
+name,title,company,person_location,company_hq,funding_stage,published_recent_paper,paper_topic,uses_invitro_or_nams,source
+Dr Rahul Verma,Director of Toxicology,HepatoGen,Boston,Cambridge MA,Series B,Yes,Drug-Induced Liver Injury,Yes,PubMed
+Dr Emily Chen,Head of Safety Assessment,NeoPharma,Basel,Basel,Series A,No,,Yes,LinkedIn
+Dr Michael Turner,VP Preclinical Safety,BioNova Therapeutics,Bay Area,Bay Area,Series B,Yes,Liver Toxicity,Yes,Conference
+Dr Sarah Patel,Senior Toxicologist,TheraCure Labs,San Diego,San Diego,None,No,,No,LinkedIn
+Dr James Wilson,Principal Scientist,Liveronix,Boston,Cambridge MA,Series A,Yes,Hepatic Safety,Yes,PubMed
+Dr Ananya Rao,Director of Preclinical Safety,OncoSphere,Boston,Boston,Series B,No,,Yes,LinkedIn
+Dr David Miller,Head of Toxicology,CardioGenix,UK Golden Triangle,UK Golden Triangle,Series A,Yes,Drug-Induced Liver Injury,Yes,Conference
+Dr Laura Martinez,Senior Scientist,HepatoTech,San Diego,San Diego,None,No,,No,LinkedIn
+Dr Thomas Becker,Director of Safety Assessment,BioMatrix AG,Basel,Basel,Series B,Yes,Liver Toxicity,Yes,PubMed
+Dr Priya Nair,Principal Scientist,GenAxis Therapeutics,Bay Area,Bay Area,None,No,,Yes,LinkedIn
+Dr Robert Johnson,VP Toxicology,PharmaNext,Boston,Cambridge MA,Series B,Yes,Drug-Induced Liver Injury,Yes,Conference
+Dr Sofia Alvarez,Head of Hepatic Safety,LiverCore,Bay Area,Bay Area,Series A,Yes,Hepatic Safety,Yes,PubMed
+Dr Kevin Brown,Senior Toxicologist,SafePath Bio,Texas,San Diego,None,No,,No,LinkedIn
+Dr Meera Iyer,Director of Toxicology,NeoLiver Sciences,Boston,Boston,Series B,Yes,Liver Toxicity,Yes,Conference
+Dr Daniel Fischer,Principal Scientist,InVitroWorks,Basel,Basel,None,No,,Yes,LinkedIn
+Dr Alice Wong,Head of Preclinical Safety,OncoLytix,UK Golden Triangle,UK Golden Triangle,Series A,Yes,Drug-Induced Liver Injury,Yes,PubMed
+Dr Vikram Singh,Senior Scientist,BioHep Solutions,Texas,San Diego,None,No,,No,LinkedIn
+Dr Natalie Green,Director of Safety Assessment,HepatoNova,Boston,Cambridge MA,Series B,Yes,Hepatic Safety,Yes,Conference
+Dr Arjun Malhotra,VP Toxicology,CellMatrix Therapeutics,Bay Area,Bay Area,Series B,Yes,Liver Toxicity,Yes,PubMed
+Dr Olivia Brooks,Junior Scientist,EarlyBio Labs,Texas,San Diego,None,No,,No,LinkedIn
+Dr Pierre Dubois,Head of Toxicology,EuroHep Biotech,Basel,Basel,Series A,Yes,Drug-Induced Liver Injury,Yes,Conference
+Dr Rohan Mehta,Principal Scientist,SafeLiver Therapeutics,Boston,Boston,None,No,,Yes,LinkedIn
+Dr Hannah Kim,Director of Preclinical Safety,NextGen BioModels,Bay Area,Bay Area,Series B,Yes,Hepatic Safety,Yes,PubMed
+Dr Mark Thompson,Senior Toxicologist,DiscoveryRx,San Diego,San Diego,None,No,,No,LinkedIn
+Dr Sneha Kulkarni,Head of Safety Assessment,OrganoTech,Boston,Cambridge MA,Series A,Yes,Liver Toxicity,Yes,Conference
+Dr Lucas Meyer,VP Preclinical Toxicology,CellScape Bio,UK Golden Triangle,UK Golden Triangle,Series B,Yes,Drug-Induced Liver Injury,Yes,PubMed
+Dr Fatima Hassan,Principal Scientist,Hepatic Insight,Basel,Basel,None,No,,Yes,LinkedIn
+Dr Andrew Collins,Director of Toxicology,Precision Liver Labs,Boston,Boston,Series B,Yes,Hepatic Safety,Yes,Conference
+Dr Kavita Sharma,Senior Scientist,BioNAM Solutions,Texas,San Diego,None,No,,Yes,LinkedIn
+Dr Jonathan Reed,Head of Toxicology,InVitro Dynamics,Bay Area,Bay Area,Series A,Yes,Liver Toxicity,Yes,PubMed
