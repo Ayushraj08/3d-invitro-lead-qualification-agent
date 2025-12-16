@@ -186,38 +186,40 @@ streamlit run app.py
 http://localhost:8501
 ```
 
-🧪 Data Disclaimer
+## 🧪 Data Disclaimer
 
-All data in this repository is synthetic and representative, created solely for demonstration purposes.
+All data in this repository is **synthetic and representative**, created solely for demonstration purposes.
 
-The system architecture, enrichment logic, and scoring framework are designed to be production-ready while respecting data ethics and platform terms of service.
+The system architecture, enrichment logic, and scoring framework are designed to be **production-ready**, while strictly respecting **data ethics** and **platform terms of service**.
 
-🚀 Why This Project Stands Out
+---
 
-✔ Fully working system (not a mockup)
-✔ Clear separation of concerns
-✔ Business-aligned scoring logic
-✔ Transparent, explainable decisions
-✔ Immediately usable by BD teams
+## 🚀 Why This Project Stands Out
+
+✔ Fully working system (not a mockup)  
+✔ Clear separation of concerns  
+✔ Business-aligned scoring logic  
+✔ Transparent, explainable decisions  
+✔ Immediately usable by BD teams  
 
 This project demonstrates the ability to:
 
-Translate ambiguous business problems into systems
+- Translate ambiguous business problems into scalable systems  
+- Design for real-world business development workflows  
+- Balance technical execution with commercial reasoning  
 
-Design for real-world workflows
+---
 
-Balance technical execution with commercial reasoning
+## 📌 Possible Extensions
 
-📌 Possible Extensions
+- Live enrichment via compliant third-party APIs  
+- Dynamic weight tuning by therapeutic area  
+- CRM integrations (HubSpot / Salesforce)  
+- Temporal scoring decay and trend analysis  
 
-Live enrichment via compliant third-party APIs
+---
 
-Dynamic weight tuning per therapeutic area
+## 👤 Author
 
-CRM integrations (HubSpot / Salesforce)
-
-Temporal scoring decay & trend analysis
-
-Author: Ayush Raj
-Focus: Data-driven systems, product thinking, applied AI for business outcomes
-
+**Ayush Raj**  
+*Focus:* Data-driven systems, product thinking, and applied AI for business outcomes
